@@ -19,12 +19,6 @@ SFTP is a very widely used protocol which many organizations use today for trans
 * No VM maintenance overhead
 * Fast to deploy
 
-## How-To create an on-demand SFTP Server with a new Azure Files persistent storage
-
-<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FAzure-Samples%2Fsftp-creation-template%2Fmaster%2Fcreate-aci-sftp-server-and-azure-files%2Fazuredeploy.json" target="_blank" style="cursor: default;">
-    <img src="http://azuredeploy.net/deploybutton.png"/>
-</a>
-
 ## How-To create an on-demand SFTP Server with an existing Azure Files persistent storage
 
 <a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FAzure-Samples%2Fsftp-creation-template%2Fmaster%2Fcreate-aci-sftp-server-with-existing-azure-file-share%2Fazuredeploy.json" target="_blank">
